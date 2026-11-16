@@ -1,0 +1,33 @@
+# Local working files and credentials
+work/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.playwright-cli/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.uvguix.*
+*.uvoptx
+Objects/
+Listings/
+# Large installers, firmware packages and generated media
+*.exe
+*.msi
+*.7z
+*.zip
+*.tar
+*.tar.gz
+*.img
+*.img.gz
+*.mp4
+*.mov
+det_results/

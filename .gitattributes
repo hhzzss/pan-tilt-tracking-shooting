@@ -1,0 +1,6 @@
+# Preserve original file bytes, including existing line endings.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.kmodel binary
